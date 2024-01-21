@@ -1,5 +1,5 @@
-# CryptoClustering Unsupervised-machine-learning
-Unsupervised Learning with Cryptocurrencies
+# CryptoClustering unsupervised-machine-learning
+
 
 
 ### Background
